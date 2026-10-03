@@ -6,8 +6,6 @@
 
 **Understanding models. Exploring data. Building applications.**
 
-머신러닝을 공부하고, 데이터로 질문을 풀고, 아이디어를 구현합니다.
-
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)](https://github.com/harryu040129/Deep-Learning-Practices)
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-0D9488?style=flat-square)](https://github.com/harryu040129/DSP-2024-Group-2)
 [![App Development](https://img.shields.io/badge/App_Development-7C3AED?style=flat-square)](https://github.com/harryu040129/calendar)
