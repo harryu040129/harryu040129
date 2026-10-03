@@ -38,6 +38,17 @@
 | 📚 **[COCO ML Sessions](https://github.com/harryu040129/COCO-2024-ML)** | 제주 버스 데이터를 활용한 머신러닝 세션 자료. EDA부터 전처리, 변수 생성, 회귀 모델 학습까지 정리했습니다. |
 | 📖 **[page.note](https://github.com/harryu040129/Page-Note-Book-Review-Website)** | 책 감상과 별점을 기록하는 웹 프로젝트. 검색·필터·언어 전환과 브라우저 저장 기능을 구현했습니다. |
 
+### 📚 Notes & Knowledge Base
+
+공부하면서 이해한 개념과 직접 구현하며 고민한 내용을 Notion에 정리합니다.
+
+| Notes | What you'll find |
+| :--- | :--- |
+| 🧠 **[Machine Learning Fundamentals](https://app.notion.com/p/f2e8af1ed3a14c1dac325e44942d42df)** | 회귀·분류 모델부터 평가 방법, 정규화와 앙상블까지 정리한 머신러닝 기초 학습 기록입니다. |
+| 💻 **[Data Structures & Algorithms in Python](https://app.notion.com/p/13ae0b65b1264703a93096d25d1ea1ac)** | 연결 리스트, 스택·큐, 트리와 탐색·정렬 알고리즘을 Python으로 구현하며 이해한 내용을 담았습니다. |
+| 🔎 **[Bloom Filter](https://app.notion.com/p/3ee29921d03481069a27eebdb0a5eac9)** | 원소의 포함 여부를 확인하는 확률적 자료구조. 비트 배열과 해시 함수, 오탐의 원리와 구현을 정리했습니다. |
+| 📈 **[Logistic Regression](https://app.notion.com/p/39429921d03480efb503dcb572dfc978)** | odds·logit에서 sigmoid, MLE와 cross entropy까지 이어지는 원리와 학습 과정을 정리했습니다. |
+
 ### Tools I've worked with
 
 **Data & Machine Learning**
